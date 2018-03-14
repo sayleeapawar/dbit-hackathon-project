@@ -1,0 +1,4 @@
+-- DO NOT DELETE THIS FOLDER --
+--Accurate action images are stored here.
+--Image given by user will be compared to the image stored in this folder.
+--Delete the image taken by user each time you click the new picture for comparing.
