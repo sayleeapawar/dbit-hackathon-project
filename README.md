@@ -38,11 +38,10 @@ Then, install the numpy package by giving the command,
 
 2.	Open the project – 
 
--- Opening the .py file in your Python 2.7 IDLE shell and run the module by pressing F5
+-- Opening the FinalRun.py file in your Python 2.7 IDLE shell and run the module by pressing F5
 
 ![alt runFileInPythonShell](https://github.com/suma619/dbit_hack/blob/master/image001.gif)
 
--- Opening the rectify.py and run it
 
 3.	Enter the user id and perform the action in front of camera, wait for the system to rectify the action and give the details about proper action to be performed.
  
